@@ -1,0 +1,9 @@
+@@ -13,7 +13,7 @@
+      "examples"
+    ],
+    "author": "uniquesanjay",
+ -  "license": "Apache 2",
+ +  "license": "Apache-2.0",
+    "bugs": {
+      "url": "https://github.com/appium/sample-code/issues"
+    },
